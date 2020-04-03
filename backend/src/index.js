@@ -1,5 +1,6 @@
 const express = require('express');
 const routes = require('./routes');
+const eduardo = 'w';
 
 const app = express();
 
